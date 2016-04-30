@@ -11,4 +11,41 @@
 1. Argumenter pour convaincre la tutelle sur le rôle des bibliothèques des services informatiques
 =================================================================================================
 
-Les 
+Pour convaincre sa hiérarchie du bien fondé d'organiser un atelier vie privée ou une cryptoparty en bibliothèque, on aura recours
+à 'la déclaration de l'IFLA (International Federation of Library Association) sur la vie privée <http://www.ifla.org/node/9808>'
+On mettra notamment l'accent sur deux passages : "La formation des professionnels des bibliothèques et les services d’information 
+doit inclure des principes en matière de protection des données et de la vie privée, et couvrir les pratiques en vigueur dans un 
+environnement interconnecté." En général, la formation des collègues se limite à une connaissance approximative des enjeux de la 
+non conservation de l'historique de prêt des lecteurs pour respecter la loi Informatique et Liberté. Le contexte assez protecteur
+à la base des bibliothèques françaises peut avoir tendance à nous endormir. Au contraire, le défaut de CNIL aux USA et les
+injonctions du FBI dans le cadre du patriot act ont très tôt mobilisé nos collègues outre-Atlantique. 
+La cryptoparty peut être conçue également comme une formation à destination de ses collègues.
+
+Former les usagers à la protection de leurs données : une mission des bibliothèques
+-----------------------------------------------------------------------------------
+
+"Autre passage important : La protection des données et de la vie privée doit faire partie de la formation aux medias et aux 
+sciences de l’information dispensée aux utilisateurs  des bibliothèques et des services d’information doivent. Ceci doit comprendre
+une formation aux outils à adopter afin de protéger leur vie privée." Avec la cryptoparty, on est tout à fait dans ce cadre : on 
+forme les utilisateurs à l'usage de la cryptographie privée et d'outils permettant d'anonymiser et chiffrer leurs communications
+(Tor, Tails, PGP, etc.)
+
+Toucher d'autres publics
+------------------------
+
+La cryptoparty ou l'atelier vie privée peut amener à la bibliothèque des usagers qui n'y vont pas en général : des étudiants en 
+bibliothèques municipale ou au contraire des technophiles externes au système universitaire en BU. C'est l'occasion pour les BU
+de renouer avec ''sa dimension de bibliothèque publique'' (n'importe qui peut y venir en journée pour consulter des ouvrages ou 
+obtenir de l'aide et des conseils sur la documentation).
+
+Prendre du recul sur son sytème d'information et améliorer les procédures
+-------------------------------------------------------------------------
+
+Si on arrive à intéresser et impliquer la DSI, la cryptoparty peut être un moyen de discuter de la sécurité des réseaux (par 
+exemple procédure d'attribution de mots de passe aux lecteurs) avec des hackers.
+Tous les problèmes ne pourront pas forcément être résolus rapidement. Par exemple, il est établi qu'Adobe à traver son 
+gestionnaire de DRM, Adobe Digital Editions, fait fuiter et monnaye les données privées des lecteurs. Néanmoins, ces DRM sont
+imposés par les éditeurs ou les plateformes dans le cadre du prêt numérique (PNB). A certains moments, on doit choisir entre
+mettre à disposition une offre conséquente mais peu sûre, ou bien valoriser une offre de niche sans DRM et qui préservera le
+lecteur du tracking et du vol de données.
+
